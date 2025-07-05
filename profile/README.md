@@ -45,7 +45,7 @@ Connect Instapage with HubSpot CRM to sync landing page leads, map form fields, 
 ### 🖼 Preview
 
 Instapage form setup with HubSpot CRM field mapping interface  
-![Screenshot](https://help.instapage.com/hc/article_attachments/22528273675671)  
+![Screenshot](https://storage.googleapis.com/website-production/uploads/2017/02/hubspot-integration-setup.png)  
 *Every click. Every lead. Automatically in your CRM.*
 
 ---
